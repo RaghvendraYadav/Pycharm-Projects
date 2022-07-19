@@ -1,0 +1,20 @@
+INFO:root:This is my first logfile 
+INFO:root:This is my first logfile 
+INFO:root:2
+INFO:root:This is my first logfile 
+WARNING:root:This is warnig we have used
+INFO:root:2
+INFO:root:This is my first logfile 
+WARNING:root:This is warnig we have used
+INFO:root:2
+WARNING:root:This is warning for user tht thye have found out 2 in list
+INFO:root:This is my first logfile 
+WARNING:root:This is warnig we have used
+ERROR:root:This is error msg from sysytem
+INFO:root:2
+WARNING:root:This is warning for user tht thye have found out 2 in list
+INFO:root:This is my first logfile 
+WARNING:root:This is warnig we have used
+ERROR:root:This is error msg from sysytem
+INFO:root:2
+WARNING:root:This is warning for user tht thye have found out 2 in list

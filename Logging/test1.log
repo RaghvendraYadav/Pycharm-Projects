@@ -1,0 +1,22 @@
+INFO:root:This is my first log File Code
+INFO:root:This is my first log File Code
+INFO:root:This is my first log File Code
+INFO:root:This is my first log File Code
+INFO:root:We have find 2 
+INFO:root:This is my first log File Code
+WARNING:root:This is warning only proceed if it is a list
+INFO:root:We have find 2 
+INFO:root:This is my first log File Code
+WARNING:root:This is warning only proceed if it is a list
+INFO:root:[1, 2, 3, 4, 5, 6, 7]
+WARNING:root:We have find out 2 in the above list
+INFO:root:This is my first log File Code
+WARNING:root:This is warning only proceed if it is a list
+ERROR:root:This is a error message from a system
+INFO:root:[1, 2, 3, 4, 5, 6, 7]
+WARNING:root:We have find out 2 in the above list
+INFO:root:This is my first log File Code
+WARNING:root:This is warning only proceed if it is a list
+ERROR:root:This is a error message from a system
+INFO:root:[1, 2, 3, 4, 5, 6, 7]
+WARNING:root:We have find out 2 in the above list

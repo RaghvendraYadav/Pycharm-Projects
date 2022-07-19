@@ -1,0 +1,8 @@
+ERROR 2022-07-05 08:55:20,107 root division by zero
+Traceback (most recent call last):
+  File "C:\Users\dell\PycharmProjects\FSDSCLASS\Logging\test5.py", line 9, in divide
+    divs = a/b
+ZeroDivisionError: division by zero
+INFO 2022-07-05 09:07:00,640 root I m trying to read the file 
+CRITICAL 2022-07-05 09:07:00,640 root This situation is Critical
+ERROR 2022-07-05 09:07:00,640 root [Errno 2] No such file or directory: 'Ragh.txt'

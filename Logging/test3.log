@@ -1,0 +1,23 @@
+INFO 2022-07-04 08:58:00,887 root The number entered by user is 2 ans 0
+INFO 2022-07-04 08:58:22,140 root The number entered by user is 2 ans 1
+INFO 2022-07-04 09:13:09,860 root The number entered by user is 2 ans 1
+INFO 2022-07-04 09:13:09,860 root Inside Function
+INFO 2022-07-04 09:13:09,860 root we have completed the division operation
+INFO 2022-07-04 09:13:33,403 root The number entered by user is 2 ans 0
+INFO 2022-07-04 09:13:33,403 root Inside Function
+ERROR 2022-07-04 09:13:33,403 root division by zero
+Traceback (most recent call last):
+  File "C:\Users\dell\PycharmProjects\FSDSCLASS\Logging\test3.py", line 8, in divide
+    div =a/b
+ZeroDivisionError: division by zero
+INFO 2022-07-04 09:23:23,378 root The number entered by user is 2 ans 0
+INFO 2022-07-04 09:23:23,378 root Inside Function
+ERROR 2022-07-04 09:23:23,378 root division by zero
+Traceback (most recent call last):
+  File "C:\Users\dell\PycharmProjects\FSDSCLASS\Logging\test3.py", line 8, in divide
+    div =a/b
+ZeroDivisionError: division by zero
+INFO 2022-07-04 09:24:03,548 root The number entered by user is 2 ans 4
+INFO 2022-07-04 09:24:03,548 root Inside Function
+INFO 2022-07-04 09:24:03,548 root we have completed the division operation
+INFO 2022-07-04 09:24:03,548 root The result of the code is 0.5

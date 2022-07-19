@@ -1,0 +1,11 @@
+class Person2 :
+    def __init__(self,name,surname,yob):
+         self._name1= name#here _name is protected
+         self.__surname1= surname#Here__Surname is private
+         self.yob=yob
+
+
+sudh = Person2('SUdhanshu','Kumar',1990)
+print(sudh._name1)
+#print(sudh.__surname here we will get error bcoz __surname is private variable
+print(sudh._Person2__surname1)# here for calling Private varialbe we wil use object._classname__variableName

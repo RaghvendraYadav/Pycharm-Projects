@@ -1,0 +1,8 @@
+INFO  The number enterd by user is 3 and 4 2022-06-29 22:02:10,878 root
+INFO  The number enterd by user is 3 and 0 2022-06-29 22:04:47,062 root
+INFO  We are into the function 2022-06-29 22:04:47,062 root
+ERROR  division by zero 2022-06-29 22:04:47,062 root
+Traceback (most recent call last):
+  File "C:\Users\dell\PycharmProjects\FSDSCLASS\logCode.py", line 8, in divide
+    div=a/b
+ZeroDivisionError: division by zero
